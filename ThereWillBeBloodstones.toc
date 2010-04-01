@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: There Will Be Bloodstones!
+## Notes: And my straw reaches across the room, and starts to drink your milkshake. I drink your milkshake! I drink it up!
+## Author: Xbalanque of Draka
+## Version: 0.1
+## OptionalDeps: AuctionLite,Auctionator,NutCounter
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+## X-LoadOn-Slash: /twbb
+
+twbb.lua
